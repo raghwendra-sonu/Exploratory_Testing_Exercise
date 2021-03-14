@@ -1,0 +1,1 @@
+1. How do you decide which company should be listed in "Companies in the news" section? I believe there should be algorithm, which looks for maximum searched company or stock code, and displays them in this section.
